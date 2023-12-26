@@ -1,1 +1,1 @@
-# Fontawesome Pro
+# Fontawesome Pro Web
